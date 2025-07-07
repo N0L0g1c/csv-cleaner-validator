@@ -1,0 +1,6 @@
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+cleaning_report.txt
