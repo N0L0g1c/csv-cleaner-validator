@@ -52,9 +52,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
  - 1.0.0 - 2025-07-08
     * Initial release
     *  Features:
-       Validate missing values, duplicates, and numeric columns
-       Clean dataset by imputing missing values and removing duplicates
-       Generate a detailed cleaning report
+       * Validate missing values, duplicates, and numeric columns
+       * Clean dataset by imputing missing values and removing duplicates
+       * Generate a detailed cleaning report
 
 ## Security Note
 Ensure input CSVs are trusted, as the script processes them directly. For sensitive data, consider additional security measures.
